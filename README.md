@@ -1,4 +1,4 @@
-# lil_scratch
+# GitTest
 for general access and testing ? 
 woah!
 well well well
